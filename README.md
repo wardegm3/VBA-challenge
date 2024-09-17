@@ -8,3 +8,5 @@
     # The total volume of stock by ticker symbol
 
 # Additionally, we want a quick analysis of the tickers that resulted in the greatest percent change increase, greatest percent change decrease, and the greatest overall total volume
+
+# FYI, the output images are located under "issues" on the top ribbon
